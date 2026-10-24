@@ -1,0 +1,5 @@
+
+name: math.igl
+inc: igl/include
+dep: math.eigen
+sub: libigl&igl(https://github.com/libigl/libigl)
